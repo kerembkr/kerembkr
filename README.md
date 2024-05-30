@@ -1,7 +1,7 @@
 # Welcome!
 
 ## About Me
-I'm Kerem, a PhD student at the German Aerospace Center (DLR), specializing in the exciting field of Quantum Machine Learning. My research focuses on the intersection of quantum computing and machine learning, exploring topics such as Gaussian Processes, Variational Quantum Circuits, Quantum Neural Networks, and Optimization techniques.
+I'm Kerem, a PhD student at the German Aerospace Center (DLR), specializing in the field of Quantum Machine Learning. My research focuses on the intersection of quantum computing and machine learning, exploring topics such as Gaussian Processes, Variational Quantum Circuits, Quantum Neural Networks, and Optimization techniques.
 
 ## Research Interests
 - Quantum Machine Learning
@@ -9,6 +9,8 @@ I'm Kerem, a PhD student at the German Aerospace Center (DLR), specializing in t
 - Variational Quantum Circuits
 - Quantum Neural Networks
 - Optimization
+- Linear Algebra
+- High Performance Computing
 
 ## Software
 - PennyLane, Qiskit
