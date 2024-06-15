@@ -14,6 +14,7 @@ I'm Kerem, a PhD student at the German Aerospace Center (DLR), specializing in t
 
 ## Software
 - PennyLane, Qiskit
+- NumPy, Pandas, Matpotlib
 - PyTorch, Tensorflow
 - scikit-learn, scikit-optimize, scipy
   
