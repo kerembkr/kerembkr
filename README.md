@@ -9,11 +9,11 @@ I'm Kerem, a PhD student at the German Aerospace Center (DLR), specializing in t
 - Variational Quantum Circuits
 - Quantum Neural Networks
 - Optimization
-- Linear Algebra
+- Numerical Linear Algebra
 - High Performance Computing
 
 ## Software
-- PennyLane, Qiskit
+- PennyLane
 - NumPy, Pandas, Matpotlib
 - PyTorch, Tensorflow
 - scikit-learn, scikit-optimize, scipy
