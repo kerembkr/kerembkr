@@ -5,6 +5,7 @@ I'm Kerem, a PhD student at the German Aerospace Center (DLR), specializing in t
 
 ## Research Interests
 - Quantum Machine Learning
+- Quantum Computing
 - Gaussian Processes
 - Variational Quantum Circuits
 - Quantum Neural Networks
